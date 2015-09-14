@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Sismocel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="transition_banner_name">banner</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_sismos">MapSismosActivity</string>
+    <string name="title_activity_respuesta_preguntas_frecuentes">RespuestaPreguntasFrecuentes
+    </string>
+    <string name="title_activity_map_historico">MapHistoricoActivity</string>
+
+    <string name="app_oficial">La app oficial del Servicio Sismológico Nacional,\n
+            Instituto de Geofísica\n Universidad Nacional Autónoma de México
+    </string>
+    <string name="acerca_de_servicio_social">SERVICIO SOCIAL\n
+        (ILUSTRACIONES PARA “PREGUNTAS FRECUENTES”)</string>
+
+    <string name="ayuda_notificaciones">Selecciona el rango de magnitudes y las entidades federativas para las cuales deseas
+    recibir notificaciones de SismocelMX.\n\n
+
+    La opción predeterminada permite recibir la notificación con las características
+    de un sismo ocurrido con una magnitud mayor a 4.0 en cualquiera de los estados de
+    la República Mexicana y de cualquier magnitud en el Distrito Federal (Ciudad de México).\n\n
+
+    En cuanto a la demás información de los sismos con magnitudes menores a 4.0, esta se emite
+    mediante un reporte diario y podrás consultarla directamente a través de la sección “Últimos
+    sismos”.\n\n
+
+    El SSN no opera ninguna alarma sísmica. Las notificaciones de SismocelMX informan sobre los
+    características principales de un sismo ocurrido (magnitud, epicentro, localidad más cercana,
+    profundidad). Estos parámetros son calculados en el SSN por sismólogos analistas con los datos
+    provenientes de estaciones sismológicas.\n
+    </string>
+    <string name="title_activity_splash">Sismocel</string>
+    <string name="desarrollador">Desarrollador</string>
+    <string name="developer_name">Ken Màrquez Alvarado</string>
+</resources>
